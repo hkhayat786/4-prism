@@ -277,3 +277,16 @@ form input:hover{
        padding-left: 0;
    }
   }
+
+  @media only screen and (max-width: 600px) {
+    .name h1{
+        font-size: 1.5rem;
+    }
+    .intro h4{
+        font-size: 0.9rem;
+    }
+    .intro button {
+        margin-top: 1rem;
+    }
+   }
+ 
